@@ -4,7 +4,7 @@
  * Tic Tac Toe Game
  * Date: 09-24-2022
  * Student: Roberto Jesus Ramirez Carbajal
- * Class: CSE219 BYU IDAHO
+ * Class: CSE210 BYU IDAHO
 */
 
 namespace SandBoxProject
